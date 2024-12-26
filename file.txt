@@ -2,3 +2,7 @@ hello people
 this is git testing
 some issue with passworde
 corrected
+everything is alright
+
+
+html,css,js
